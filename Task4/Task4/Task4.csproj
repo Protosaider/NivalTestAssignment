@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B431573B-843F-4455-9C63-43F22A4B85BD}</ProjectGuid>
+    <ProjectGuid>{5A46F18B-EA2C-453F-B177-29E47619BA59}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>NivalTestAssignment</RootNamespace>
-    <AssemblyName>NivalTestAssignment</AssemblyName>
+    <RootNamespace>Task4</RootNamespace>
+    <AssemblyName>Task4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NivalTestAssignment", "NivalTestAssignment\NivalTestAssignment.csproj", "{B431573B-843F-4455-9C63-43F22A4B85BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{5A46F18B-EA2C-453F-B177-29E47619BA59}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B431573B-843F-4455-9C63-43F22A4B85BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B431573B-843F-4455-9C63-43F22A4B85BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B431573B-843F-4455-9C63-43F22A4B85BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B431573B-843F-4455-9C63-43F22A4B85BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A46F18B-EA2C-453F-B177-29E47619BA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A46F18B-EA2C-453F-B177-29E47619BA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A46F18B-EA2C-453F-B177-29E47619BA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A46F18B-EA2C-453F-B177-29E47619BA59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BC6BC981-9570-46DB-A276-7E21718F6AC8}
+		SolutionGuid = {BA5E8727-7517-4857-918B-766272492039}
 	EndGlobalSection
 EndGlobal
